@@ -9,7 +9,7 @@ view('home/inc/header',$data);
             print '<p>'.$msg.'</p>';
             ?>
             <p>
-                <a href="javascript:window.history.back(1);">Voltar</a>
+                <a href="/">Ir para a página principal</a>
             </p>
         </div>
     </div>
