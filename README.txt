@@ -1,5 +1,5 @@
 tempo   tarefa
-repo no github, public.local e .gitignore
+1m45s   repo no github, public.local e .gitignore
 copiar arquivos da versão anterior e .env
 atualizar o voltar do root/home/view/msg
 migrate  e testar se está funcionando
