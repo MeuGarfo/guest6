@@ -1,8 +1,8 @@
 tempo   tarefa
-repo no github, public.local e .env
-copiar arquivos da versão anterior
+repo no github, public.local e .gitignore
+copiar arquivos da versão anterior e .env
 atualizar o voltar do root/home/view/msg
-testar se está funcionando
+migrate  e testar se está funcionando
 calcular o tempo total de desenvolvimento
 
 numero inicial de tarefas = 5 tarefas
